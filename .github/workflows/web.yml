@@ -1,4 +1,4 @@
-name: AHJ_nomework5.1
+name: AHJ_nomework5
 
 on: [push, pull_request]
 
